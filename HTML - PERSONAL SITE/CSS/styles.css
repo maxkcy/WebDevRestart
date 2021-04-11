@@ -18,3 +18,24 @@ h1{
 h3 {
     color: aquamarine;
 }
+
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+#tableDirectory:hover {
+    background-color: red;
+}
+
+div {
+    background-color: blue;
+    border-style: outset;
+    border-color: crimson;
+    border-width: 20px 20px 20px 20px;
+
+    width: 97%;
+    height: 200px;
+    padding-top: 140px;
+}
